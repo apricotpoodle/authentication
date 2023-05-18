@@ -8,7 +8,7 @@ Après avoir déployé votre application, vous devrez peut-être, occasionnellem
 emprunter l'identité d'un autre utilisateur, afin de déboguer les problèmes signalés par vos clients
 ou pour voir l'application dans l'état où vos clients la voient.
 
-Activation de la l'emprunt d'identité
+Activation de la l'emprunt d'identité.
 ======================
 
 Pour emprunter l'identité d'un autre utilisateur, vous pouvez utiliser la méthode ``impersonate()`` sur le
